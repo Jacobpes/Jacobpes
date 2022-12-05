@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jacobpes
 - 👀 I’m interested in golang, javascript and ***repairing electronic circuit boards.***
 - 🌱 I’m currently learning golang and soon javascript
-- 💞️ I’m looking to collaborate on nothing special atm
+- 💞️ I’m looking to collaborate on learning to code
 - 📫 How to reach me: jacob.pesamaa@gmail.com
 
 <!---
