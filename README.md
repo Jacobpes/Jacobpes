@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jacob Pesämaa
 - 👀 I’m interested in golang, javascript, java and ***repairing electronic circuit boards.***
 - 🌱 I’m currently learning golang, javascript, java, angular, react, AI
-- 💞️ I’m looking to collaborate on learning about AI
+- 💞️ I’m looking to collaborate on AI startups
 - 📫 How to reach me: jacob.pesamaa@gmail.com
 
 <!---
